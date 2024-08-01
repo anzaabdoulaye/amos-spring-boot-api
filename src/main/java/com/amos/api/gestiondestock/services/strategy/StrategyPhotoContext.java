@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.services.strategy;
+package com.amos.api.gestiondestock.services.strategy;
 
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidOperationException;
+import com.amos.api.gestiondestock.exception.ErrorCodes;
+import com.amos.api.gestiondestock.exception.InvalidOperationException;
 import com.flickr4java.flickr.FlickrException;
 import java.io.InputStream;
 import lombok.Setter;

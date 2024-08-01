@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.controller;
+package com.amos.api.gestiondestock.controller;
 
-import com.bouali.gestiondestock.controller.api.PhotoApi;
-import com.bouali.gestiondestock.services.strategy.StrategyPhotoContext;
+import com.amos.api.gestiondestock.controller.api.PhotoApi;
+import com.amos.api.gestiondestock.services.strategy.StrategyPhotoContext;
 import com.flickr4java.flickr.FlickrException;
 import java.io.IOException;
 import org.springframework.beans.factory.annotation.Autowired;
