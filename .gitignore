@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+amos-api-key
+amos-api-key.pub
